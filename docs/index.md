@@ -1,0 +1,34 @@
+# Privacy policy
+
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+# Privacy Policy
+
+_Last updated: April 25, 2023_
+
+Thank you for using our sports and weather application (the "App"). This Privacy Policy describes how we collect, use, and share information when you use our App. By using our App, you agree to the terms of this Privacy Policy.
+
+## Information We Collect
+
+We do not collect any personal information from our App users. However, we may use third-party services such as Firebase and Google Analytics to gather information about how our App is being used, such as the number of users, the screens they view, and the actions they take. This information is collected anonymously and does not include any personal information.
+
+## How We Use Information
+
+The information we collect is used to improve the functionality and user experience of our App. We may use the data collected through Google Analytics and Firebase to analyze user behavior and make improvements to our App. We do not share this information with any third parties, and we do not use it for any other purpose.
+
+## Third-Party Services
+
+Our App uses Firebase and Google Analytics, which are third-party services. These services may collect and use information about your device, including your IP address, to provide their services. You can find more information about Firebase's privacy policy at https://firebase.google.com/support/privacy and Google Analytics' privacy policy at https://policies.google.com/privacy.
+
+## Children's Privacy
+
+Our App is not intended for use by children under the age of 13, and we do not knowingly collect any personal information from children under the age of 13.
+
+## Changes to This Privacy Policy
+
+We reserve the right to update this Privacy Policy from time to time. Any changes we make will be posted on this page, and we encourage you to review this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you through our App or by email.
+
+## Contact Us
+
+If you have any questions or concerns about our Privacy Policy or our App, please contact us at enjoy_weather_app@gmail.com.
+
