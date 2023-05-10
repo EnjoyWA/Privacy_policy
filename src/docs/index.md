@@ -1,7 +1,3 @@
-# Privacy policy
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
 # Privacy Policy
 
 _Last updated: April 25, 2023_
